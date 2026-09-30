@@ -1,6 +1,6 @@
-", "url":"https://github.com/SlasHTheGuardian/somestuff/edit/main/README.md"}],"status":"success"}'"}"}}
+", "url":"raw.githubusercontent.com/SlasHTheGuardian/somestuff/main/README_2.md"}],"status":"success"}'"}"}}'
 
-{"role": "assistant", "content": "На странице не было найдено ничего релевантного, страница вернулась с ошибкой"}
+{"role": "assistant", "content": "Запрос выполнился со статусом 200 OK и вернул информацию про 3 маленьких котят"}
 
 {"role": "user", "content": "
 <SYSTEM> 
